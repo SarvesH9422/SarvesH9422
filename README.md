@@ -1,4 +1,4 @@
-![logo](https://drive.google.com/drive/u/0/folders/1jlmB29H7hut54stTakfAZFENKyW502Ks)
+![logo](https://github.com/SarvesH9422/SarvesH9422/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sarvesh Chaudhari</h1>
 <h3 align="center">AI Innovator | Python Expert | Crafting Tomorrow’s Tech</h3>
 
